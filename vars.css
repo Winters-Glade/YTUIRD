@@ -1,0 +1,30 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --gradient: linear-gradient(
+    90deg,
+    rgba(255, 0, 51, 1) 0%,
+    rgba(245, 0, 87, 1) 100%
+  );
+  --pink-gradient: linear-gradient(
+      to left,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.3)
+    ),
+    linear-gradient(90deg, rgba(255, 0, 51, 1) 0%, rgba(245, 0, 87, 1) 100%);
+  --red: #ff0033;
+  --red-background: linear-gradient(
+      to left,
+      rgba(255, 255, 255, 0.06),
+      rgba(255, 255, 255, 0.06)
+    ),
+    linear-gradient(to left, rgba(255, 0, 51, 0.06), rgba(255, 0, 51, 0.06));
+  --red-button: linear-gradient(to left, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(to left, #ff325b, #ff325b);
+  --red-light: #ffaabb;
+  --white: #ffffff;
+  --background-selected: rgba(255, 170, 187, 0.14);
+
+  /* Fonts */
+  /* Effects */
+}
